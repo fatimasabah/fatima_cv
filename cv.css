@@ -151,9 +151,13 @@ padding: 0 30px;
     font-weight: normal;
 }
 .right_area h1 span{
-    margin-right: 30px;
+    margin-right: 25px;
     font-size: 50px;
     color: lightgray;
+}
+.work h1{
+    
+    margin-left: 40px;
 }
 
 .right_area p{
